@@ -4,6 +4,3 @@ sum(N,Result):-
     N1 is N-1,
     sum(N1,Subsum),
     Result is N+Subsum.
-
-    --------------------------------#output--------------------------------
-C:\Users\aswin\Pictures\Screenshot 2023-08-23 083910.png
